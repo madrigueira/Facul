@@ -24,14 +24,3 @@ int main(int argc, char *argv[]) {
     
     return 0;
 }
-	N = D/K;
-	C = N*L;
-	
-	
-	printf("\n\n   Litros Necessarios: %.2f		", N);
-	printf("Custo dos litros: %.2f", C);
-	printf("\n\n  (Professor, eu nao consigo deixar o idioma em portugues, ele fica assim: ççççç me ajuda)");
-	printf("\n\n\n\n\n");
-	
-	return 0;
-}
